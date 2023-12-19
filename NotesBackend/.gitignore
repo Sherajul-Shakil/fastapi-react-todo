@@ -1,0 +1,5 @@
+venv_backend
+__pycache__
+.space
+.vscode
+../vscode/
